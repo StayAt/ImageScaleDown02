@@ -19,6 +19,9 @@ It's due to them
 <img src="http://StayAt.org/images/plx/webinar2.jpg" alt="webinar2.jpg" height="55" width="55">
 <a href="https://xpagesandmore.blogspot.ch/2016/06/demo-database-webinar-expanding-xpages.html">A blogsite about Notes Domino XPages Bluemix and more.</a>
 
+<img src="http://StayAt.org/images/plx/Pipalia.png" alt="webinar2.jpg" height="55">
+<a href="http://www.pipalia.co.uk/xpages-2/capturing-image-camera-using-getusermedia-saving-document/">Capturing image from camera</a>
+
 
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
 <img src="http://StayAt.org/images/plx/ImageScaleDown01.jpg" alt="ImageScaleDown0201">
