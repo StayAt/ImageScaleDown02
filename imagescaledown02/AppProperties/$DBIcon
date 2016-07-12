@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257FEE00478BBC'>
+<noteinfo noteid='1aa' unid='E307C86A5FF2E6B6C1257FEE0047AC0E' sequence='1'>
+<created><datetime dst='true'>20160712T150251,02+02</datetime></created>
+<modified><datetime dst='true'>20160712T150251,09+02</datetime></modified>
+<revised><datetime dst='true'>20160712T150251,08+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20160712T150251,09+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20160712T150251,09+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Marcel Bussien/O=plx</name></updatedby>
+<wassignedby><name>CN=Marcel Bussien/O=plx</name></wassignedby>
+<item name='$TITLE'><text>$DBIcon</text></item>
+<item name='$Flags'><text>34Ci~Q</text></item>
+<item name='$ImagesWide' sign='true'><number>1</number></item>
+<item name='$ImagesHigh' sign='true'><number>1</number></item>
+<item name='$ImagesColorize' sign='true'><number>0</number></item>
+<item name='$FileSize' sign='true'><number>1212</number></item>
+<item name='$ImageData' sign='true'>
+<rawitemdata type='1'>
+mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAH0AHAAAAAEAAAAAALwEAAABAAAAAAAAAAAAAAB8
+AMYEAAC8BLwER0lGODlhIAAgAPcAAAh7zgh71giE1giE3giMzgiM1giM3hB71hCE1hCE3hCE5xCM
+zhCM1hCM3hCU1hCU3hCc3hiM1hiU1hiU3hic1hic3iF7tSGExiGE3iGM5ymEzjmMrUKUxkKUzkqc
+zlKl3lKt3lKt51ql3lqt51q152Ot56W9zq29zrXGxrXe973Gzr3e773e973n98be58be/87W587n
+987n/87v/9bv997v9+fv9///9///////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////ywAAAAAIAAg
+AAAI/gAlCBxIsKDBgwUrKFzIsKHDhwoFQpxIcaHEihgdXszIscLGiBQqUBgpkuRIChJIPrwowWOF
+fzdgyoxJE6YHlC5b6kzZ0uW/n0CDAr3BoadRjxJ1ehTK9CdRlDiVDkQ5sGnTogKp7iRI1SpTrFMN
+apXgVSjYsVofSFBLtixQrGrjIhTo1ukGBg0KTkAYoe5PEylWEJgrIW9evzdMrEixwHBhCSIE5pUQ
+oW1dxYwnV24QOW8Ew4gxL/i8GXJh0g361k28YsVo0p87w1ZdF0WMGCJEREANgvJuBBEwwIDhYnhx
+FjWSK1dx+8OI3RGAR/4NHQEB6wgQLMiwuPUKF7dxoj8nED3CdODoywMvn4JFisDhcetusP68+vvA
+ByDQnx0EiBG5PZfeBxKgl110B2an4IK5NQgCgtlFdiB+5UFXHYL3lUegggdwGEGHCHQoYojAgUji
+AR9K+OGKKHbI4oollrjiAh0uIOEBNOaI44460thijz9GpoGPH55opIs7HukjgRJYEKKIL7b44QED
+SNniAQdgYEFkUzXo5Ze5gfABmF8GBAA7
+</rawitemdata></item>
+<item name='$MimeType' sign='true'><text>image/gif</text></item>
+<item name='$FileModDT' sign='true'><datetime dst='true'>20160704T184126,70+02</datetime></item>
+<item name='$ImageNames' sign='true'><text>C:\Apache\htdocs\Dropbox\xpages.bootstrap\ImageScale.gif</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

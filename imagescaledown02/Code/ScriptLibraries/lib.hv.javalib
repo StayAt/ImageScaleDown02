@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257FEE00478BBC'>
+<noteinfo noteid='172' unid='9BA44CE006004EDEC1257DAA0047DCF8' sequence='85'>
+<created><datetime>20141210T140456,24+01</datetime></created>
+<modified><datetime dst='true'>20160712T150129,19+02</datetime></modified>
+<revised><datetime dst='true'>20160707T173653,52+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20160712T150129,19+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20160712T150129,19+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Marcel Bussien/OU=CH/O=HPH</name><name>CN=Marcel Bussien/O=plx</name><name
+>CN=Marcel Bussien/OU=CH/O=HPH</name><name>CN=Marcel Bussien/O=plx</name><name
+>CN=b guru/O=plx</name><name>CN=Marcel Bussien/O=plx</name></updatedby>
+<wassignedby><name>CN=Marcel Bussien/O=plx</name></wassignedby>
+<item name='$Class'><text>plx</text></item>
+<item name='$FlagsExt'><text/></item>
+<item name='$JavaCompilerSource'><text>1.5</text></item>
+<item name='$JavaCompilerTarget'><text>1.5</text></item>
+<item name='$TITLE' sign='true'><text>lib.hv</text></item>
+<item name='$Flags'><text>sj34QP</text></item>
+<item name='$PublicAccess' sign='true'><text>1</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$AssistAction' sign='true'>
+<rawitemdata type='10'>
+k/9HAAgADQAfAAEAAAAAAAAAdXQuY2xhc3NjOlxOb3Rlc1xEYXRhJSVzb3VyY2UlJS5qYXIAJSVv
+YmplY3QlJS5qYXIAAAAA
+</rawitemdata></item>
+<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
+ compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='1755'>
+<created><datetime dst='true'>20100827T123927,84+02</datetime></created>
+<modified><datetime dst='true'>20160707T173653,41+02</datetime></modified><filedata
+>
+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
+</filedata></file></object></item>
+<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
+ compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='2551'>
+<created><datetime>20101214T170116,22+01</datetime></created>
+<modified><datetime dst='true'>20160707T173653,41+02</datetime></modified><filedata
+>
+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
+</filedata></file></object></item>
+<item name='$Comment'><text>common utility class</text></item></note>
+
