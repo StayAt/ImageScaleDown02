@@ -37,7 +37,7 @@ https://github.com/StayAt/imagescaledown02
 
 or the easy way
 
-http://stayat.org/nsf/imagescaledown02.zip
+http://stayat.org/nsf/ImageScaleDown02.zip
 
 
 view online
