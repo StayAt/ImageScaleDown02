@@ -23,13 +23,14 @@ It's due to them
 after download the toolbox you can explore what is possible with the full functional xpages.bootstrap
 <img src="http://StayAt.org/images/plx/ImageScaleDown01.jpg" alt="ImageScaleDown0201">
 
-<h3>Registration</h3>
+<h3>Image Scale Down illustrates how to handle oversized Images</h3>
 <img src="http://StayAt.org/images/plx/ImageScaleDown02.png" alt="ImageScaleDown02">
 
-<h3>Rename</h3>
+<h3>size down Images stored in a Notes Database</h3>
 <img src="http://StayAt.org/images/plx/ImageScaleDown03.png" alt="ImageScaleDown03.png">
 
-<h3>Delete</h3>
+<h3>Modern handy cameras take pictures of high quality and huge size.
+Size them down and store the original ones on the local hard disc</h3>
 <img src="http://StayAt.org/images/plx/mobileAdminDelete.gif" alt="mobileAdminDelete.gif">
 
 https://github.com/StayAt/imagescaledown02
