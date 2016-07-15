@@ -35,7 +35,7 @@ after download the toolbox you can explore what is possible with the full functi
 <h3>Modern handy cameras take pictures of high quality and huge size.
 Size them down and store the original ones on the local hard disc</h3>
 
-https://github.com/StayAt/imagescaledown02
+https://github.com/StayAt/mobadmin/tree/master/mobadmin
 
 
 or the easy way
